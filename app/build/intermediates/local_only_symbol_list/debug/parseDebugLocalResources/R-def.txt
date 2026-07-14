@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+id btnAction
+id btnCreate
+id btnCreateCrew
+id btnLaunchMission
+id btnMission
+id btnQuarters
+id btnSimulator
+id cbSelect
+id etName
+id rbEngineer
+id rbMedic
+id rbPilot
+id rbScientist
+id rbSoldier
+id rgSpec
+id rvCrewList
+id rvMissionSelect
+id tvCrewName
+id tvCrewStats
+id tvListTitle
+id tvMissionLog
+layout activity_create_crew
+layout activity_crew_list
+layout activity_main
+layout activity_mission
+layout item_crew
+string app_name

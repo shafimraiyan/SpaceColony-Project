@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.spacecolony.app-mergeDebugResources-26:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/iamvengeance/.gradle/caches/9.3.0/transforms/8d8d6767e6072ccc0516ea3702e0f847/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

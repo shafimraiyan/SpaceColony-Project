@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.spacecolony.app-debug-28:/layout_activity_crew_list.xml.flat",
+        "source": "com.spacecolony.app-main-30:/layout/activity_crew_list.xml"
+    },
+    {
+        "merged": "com.spacecolony.app-debug-28:/layout_activity_main.xml.flat",
+        "source": "com.spacecolony.app-main-30:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.spacecolony.app-debug-28:/layout_activity_create_crew.xml.flat",
+        "source": "com.spacecolony.app-main-30:/layout/activity_create_crew.xml"
+    },
+    {
+        "merged": "com.spacecolony.app-debug-28:/layout_item_crew.xml.flat",
+        "source": "com.spacecolony.app-main-30:/layout/item_crew.xml"
+    },
+    {
+        "merged": "com.spacecolony.app-debug-28:/layout_activity_mission.xml.flat",
+        "source": "com.spacecolony.app-main-30:/layout/activity_mission.xml"
+    }
+]

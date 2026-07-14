@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/927d8195c9a03c37e1a7cbf778857870/transformed/material-1.9.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9eb6f2fd59b2db5c055b1a74edd95d78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5b0f45463d0400db9fe553702c355226/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/8d8d6767e6072ccc0516ea3702e0f847/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/2b5eeb40c9b316c228aafbdf5452e3c4/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iamvengeance/.gradle/caches/9.3.0/transforms/b205079c9d52b25c54f92444f18c5277/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f5e66fd5e9312c88b87e2ee8fb704322/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f18de2d003c2050d6006d30761ceacca/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/61e3cb81a443d67e4c5c43138caf8d9d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa3ba6ab5d6ae746c6e108d745c94cfb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f4b7e3469b1edd5b25a13691a0d9216b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/4bd93f1717968ff51d8e1afda4cf13b1/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/61acce6e28db25c7555e0ddb1c409d70/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5cb543850a105cb56b7e8a3b9a634b24/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/4eef7dbbdda90e8cac977b8883f690e9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/863167d81d6a200be1cfb8573f4e767e/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/89eb9af4e570c6ee3983cfadacdf5ba7/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3bb95fa5082a929a2802b257292ce9a5/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/47b707f4891a751be940006de1ecf5b0/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/902f2afd95063967bd8b4041ad40029d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/1a7d42eccbfbaf73c0975a2c3190322d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a3399374935c620c85cc958bfc6fa89c/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5e9d50ff827baf347f85ce34714c1b21/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/935322c3a26959d3b08bb631378bf0d2/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/30b28df72218c52321ccceebf5046dad/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/7891c2ef25113701e7adcf7bc21435fd/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/e4e498606ff6e9c9d34980b1b2869cac/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/586f66b26f96e174e7df526045b9d345/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a020b9df5d300c2c92eeb20dc57a1855/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/db709ba955235a57eb660333096288be/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9a2356103d8a58e93b825c1d04fbb283/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a1c5a4157a82fad974da183508f1067c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/38c7555203c93d41c0e3fbba28e6c6cc/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/b11032fc79b43ce4e0a629f80aa022af/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/357bea6009b1058d8b52253d473d8ee0/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/04134eea000ca9e33ae9c4e05e796cdc/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:2:70-95
+		INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:3:5-10:19
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:3:5-10:19
+MERGED from [com.google.android.material:material:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/927d8195c9a03c37e1a7cbf778857870/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/927d8195c9a03c37e1a7cbf778857870/transformed/material-1.9.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9eb6f2fd59b2db5c055b1a74edd95d78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9eb6f2fd59b2db5c055b1a74edd95d78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/586f66b26f96e174e7df526045b9d345/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/586f66b26f96e174e7df526045b9d345/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:3:18-46
+	android:theme
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:3:47-105
+activity#com.spacecolony.MainActivity
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:4:9-6:20
+	android:exported
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:4:48-71
+	android:name
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:4:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:5:13-156
+action#android.intent.action.MAIN
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:5:28-80
+	android:name
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:5:36-77
+category#android.intent.category.LAUNCHER
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:5:80-140
+	android:name
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:5:90-137
+activity#com.spacecolony.CreateCrewActivity
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:7:9-56
+	android:name
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:7:19-53
+activity#com.spacecolony.CrewListActivity
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:8:9-54
+	android:name
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:8:19-51
+activity#com.spacecolony.MissionActivity
+ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:9:9-53
+	android:name
+		ADDED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml:9:19-50
+uses-sdk
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/927d8195c9a03c37e1a7cbf778857870/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/927d8195c9a03c37e1a7cbf778857870/transformed/material-1.9.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9eb6f2fd59b2db5c055b1a74edd95d78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9eb6f2fd59b2db5c055b1a74edd95d78/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5b0f45463d0400db9fe553702c355226/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5b0f45463d0400db9fe553702c355226/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/8d8d6767e6072ccc0516ea3702e0f847/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/8d8d6767e6072ccc0516ea3702e0f847/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/2b5eeb40c9b316c228aafbdf5452e3c4/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/2b5eeb40c9b316c228aafbdf5452e3c4/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iamvengeance/.gradle/caches/9.3.0/transforms/b205079c9d52b25c54f92444f18c5277/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iamvengeance/.gradle/caches/9.3.0/transforms/b205079c9d52b25c54f92444f18c5277/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f5e66fd5e9312c88b87e2ee8fb704322/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f5e66fd5e9312c88b87e2ee8fb704322/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f18de2d003c2050d6006d30761ceacca/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f18de2d003c2050d6006d30761ceacca/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/61e3cb81a443d67e4c5c43138caf8d9d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/61e3cb81a443d67e4c5c43138caf8d9d/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa3ba6ab5d6ae746c6e108d745c94cfb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa3ba6ab5d6ae746c6e108d745c94cfb/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f4b7e3469b1edd5b25a13691a0d9216b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/f4b7e3469b1edd5b25a13691a0d9216b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/4bd93f1717968ff51d8e1afda4cf13b1/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/4bd93f1717968ff51d8e1afda4cf13b1/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/61acce6e28db25c7555e0ddb1c409d70/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/61acce6e28db25c7555e0ddb1c409d70/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5cb543850a105cb56b7e8a3b9a634b24/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5cb543850a105cb56b7e8a3b9a634b24/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/4eef7dbbdda90e8cac977b8883f690e9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/4eef7dbbdda90e8cac977b8883f690e9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/863167d81d6a200be1cfb8573f4e767e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/863167d81d6a200be1cfb8573f4e767e/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/89eb9af4e570c6ee3983cfadacdf5ba7/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/89eb9af4e570c6ee3983cfadacdf5ba7/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3bb95fa5082a929a2802b257292ce9a5/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3bb95fa5082a929a2802b257292ce9a5/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/47b707f4891a751be940006de1ecf5b0/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/47b707f4891a751be940006de1ecf5b0/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/902f2afd95063967bd8b4041ad40029d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/902f2afd95063967bd8b4041ad40029d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/1a7d42eccbfbaf73c0975a2c3190322d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/1a7d42eccbfbaf73c0975a2c3190322d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a3399374935c620c85cc958bfc6fa89c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a3399374935c620c85cc958bfc6fa89c/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5e9d50ff827baf347f85ce34714c1b21/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/5e9d50ff827baf347f85ce34714c1b21/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/935322c3a26959d3b08bb631378bf0d2/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/935322c3a26959d3b08bb631378bf0d2/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/30b28df72218c52321ccceebf5046dad/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/30b28df72218c52321ccceebf5046dad/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/7891c2ef25113701e7adcf7bc21435fd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/7891c2ef25113701e7adcf7bc21435fd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/e4e498606ff6e9c9d34980b1b2869cac/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/e4e498606ff6e9c9d34980b1b2869cac/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/586f66b26f96e174e7df526045b9d345/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/586f66b26f96e174e7df526045b9d345/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a020b9df5d300c2c92eeb20dc57a1855/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a020b9df5d300c2c92eeb20dc57a1855/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/db709ba955235a57eb660333096288be/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/db709ba955235a57eb660333096288be/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9a2356103d8a58e93b825c1d04fbb283/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/9a2356103d8a58e93b825c1d04fbb283/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a1c5a4157a82fad974da183508f1067c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/a1c5a4157a82fad974da183508f1067c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/38c7555203c93d41c0e3fbba28e6c6cc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/38c7555203c93d41c0e3fbba28e6c6cc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/b11032fc79b43ce4e0a629f80aa022af/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/b11032fc79b43ce4e0a629f80aa022af/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/357bea6009b1058d8b52253d473d8ee0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/357bea6009b1058d8b52253d473d8ee0/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/04134eea000ca9e33ae9c4e05e796cdc/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/04134eea000ca9e33ae9c4e05e796cdc/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iamvengeance/WORKSPACE/OBJ/SpaceColony/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/aa32a01084f63971f632b6fd981a6522/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/19853691f49f3e9ac953cdf0ea941732/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.spacecolony.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.spacecolony.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/iamvengeance/.gradle/caches/9.3.0/transforms/3e96747965c3a68ad0961b48b505149a/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/iamvengeance/.gradle/caches/9.3.0/transforms/6389cdaceb6919447889eac04fa360b8/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

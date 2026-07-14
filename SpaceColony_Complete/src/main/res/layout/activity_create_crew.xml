@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="16dp">
+    <TextView android:text="Recruit New Crew" android:textSize="24sp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <EditText android:id="@+id/etName" android:hint="Crew Member Name" android:layout_marginTop="20dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <TextView android:text="Specialization:" android:layout_marginTop="20dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <RadioGroup android:id="@+id/rgSpec" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/rbPilot" android:text="Pilot (5,4,20)" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/rbEngineer" android:text="Engineer (6,3,19)" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/rbMedic" android:text="Medic (7,2,18)" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/rbScientist" android:text="Scientist (8,1,17)" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+        <RadioButton android:id="@+id/rbSoldier" android:text="Soldier (9,0,16)" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </RadioGroup>
+    <Button android:id="@+id/btnCreateCrew" android:text="Create & Enlist" android:layout_marginTop="20dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>
