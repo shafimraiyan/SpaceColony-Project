@@ -10,7 +10,7 @@ Space Colony is an Android application built using Java in Android Studio. The p
 - **Data Structures:** `Storage` uses a `HashMap<Integer, CrewMember>` to manage crew members and their unique IDs.
 
 **UML Class Diagram:**
-![UML Diagram](UML_Diagram.png)
+![UML Diagram](https://raw.githubusercontent.com/shafimraiyan/SpaceColony-Project/main/UML_Diagram.png)
 
 
 ## 3. Application Use-Flow
